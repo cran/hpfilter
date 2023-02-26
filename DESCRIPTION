@@ -1,7 +1,7 @@
 Package: hpfilter
 Type: Package
 Title: The One- And Two-Sided Hodrick-Prescott Filter
-Version: 1.0.0
+Version: 1.0.1
 Author: Alexandru Monahov
 Maintainer: Alexandru Monahov <alexandru.monahov@proton.me>
 URL: https://www.alexandrumonahov.eu.org/projects
@@ -22,7 +22,7 @@ RoxygenNote: 7.2.3
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-02-23 17:31:22 UTC; Admin
+Packaged: 2023-02-24 19:20:18 UTC; Admin
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2023-02-24 10:50:25 UTC
+Date/Publication: 2023-02-26 01:12:09 UTC

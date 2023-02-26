@@ -10,7 +10,7 @@ The Hodrick-Prescott filter is a technique commonly used to smooth macroeconomic
 
 ### [Paper (ResearchGate)](http://dx.doi.org/10.13140/RG.2.2.12251.85282)
 
-### v1.0.0
+### v1.0.1
 
 ## About hpfilter
 
@@ -36,8 +36,8 @@ By default: If no values are provided, the default matrix with large variances i
 _discard_	–	the number of discard periods, expressed as a numeric scalar. The user specified amount of values will be discarded from the start of the sample, resulting in output matrices of size (T-discard)xn.
 By default: If no values are provided, the value of 0 is used.
 
- ### hp2 - the Two-Sided HP Filter
- This function applies the two-sided Hodrick-Prescott filter to the selected data, for the given smoothing parameter value.
+### hp2 - the Two-Sided HP Filter
+This function applies the two-sided Hodrick-Prescott filter to the selected data, for the given smoothing parameter value.
 
 **hp2(_y_, _lambda_)**
 

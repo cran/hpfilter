@@ -10,7 +10,7 @@ The Hodrick-Prescott filter is a technique commonly used to smooth macroeconomic
 
 ### [Paper (ResearchGate)](http://dx.doi.org/10.13140/RG.2.2.12251.85282)
 
-### v1.0.1
+### v1.0.2
 
 ## About hpfilter
 
